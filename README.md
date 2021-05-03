@@ -43,7 +43,7 @@ Tenho conhecimento técnico nas seguintes ferramentas de desenvolvimento Web:
 Tenho conhecimento técnico nas seguintes ferramentas de desenvolvimento Web:
 
 <h1 aling="center">
-<img  src="https://img.shields.io/static/v1?label=&message=Adobe_PhotoShop&color=blue&style=for-the-badge&logo=ghost"/> <img src="https://img.shields.io/static/v1?label=&message=Figma&color=critical&style=for-the-badge&logo=ghost"/> <img src="https://img.shields.io/static/v1?label=&message=JAVASCRIPT&color=yellow&style=for-the-badge&logo=ghost"/> <img src="https://img.shields.io/static/v1?label=&message=REACT&color=blue&style=for-the-badge&logo=ghost"/> <img src="https://img.shields.io/static/v1?label=&message=Adobe_Illustrator&color=yellow&style=for-the-badge&logo=ghost"/>
+<img  src="https://img.shields.io/static/v1?label=&message=Adobe_PhotoShop&color=blue&style=for-the-badge&logo=ghost"/> <img src="https://img.shields.io/static/v1?label=&message=Figma&color=critical&style=for-the-badge&logo=ghost"/>  <img src="https://img.shields.io/static/v1?label=&message=Adobe_Illustrator&color=yellow&style=for-the-badge&logo=ghost"/>
 </h1>
 
 
