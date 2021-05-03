@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./src/assets/img/Chalkboard Welcome Canvas Banner.png" />
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./Banner.png" />
 </h1>
 
 <h1 align="center">👋 Hi, me chamo Matheus Marinho </h1> 
@@ -52,7 +52,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 <a href="#">
- <img src="./src/assets/img/Me.jpeg" width="100px;" alt="" />
+ <img src="Me.jpeg" width="100px;" alt="" />
  <br />
  <sub><b>Matheus Marinho</b></sub></a> <a href="#" title="Matheus Marinho">🚀</a>
 
