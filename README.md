@@ -16,8 +16,7 @@
  <a href="#objetivo">Objetivo</a> •
  <a href="#sobre">Sobre</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
- <a href="#licenc-a">Licença</a> • 
- <a href="#autor">Autor</a>
+ <a href="#autor">Me</a>
 </p>
 
 
@@ -34,21 +33,17 @@
 
 <h2 align="left" id="tecnologias"> 🛠 Tecnologias </h2>
 
-As seguintes ferramentas foram usadas na construção do projeto:
+Tenho conhecimento técnico nas seguintes ferramentas:
 
 
 <h1 aling="center">
-<img  src="https://img.shields.io/static/v1?label=&message=HTML5&color=critical&style=for-the-badge&logo=ghost"/> <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=9cf&style=for-the-badge&logo=ghost"/> <img src="https://img.shields.io/static/v1?label=&message=JAVASCRIPT&color=yellow&style=for-the-badge&logo=ghost"/>
+<img  src="https://img.shields.io/static/v1?label=&message=HTML5&color=critical&style=for-the-badge&logo=ghost"/> <img src="https://img.shields.io/static/v1?label=&message=CSS3&color=9cf&style=for-the-badge&logo=ghost"/> <img src="https://img.shields.io/static/v1?label=&message=JAVASCRIPT&color=yellow&style=for-the-badge&logo=ghost"/> <img src="https://img.shields.io/static/v1?label=&message=REACT&color=blue&style=for-the-badge&logo=ghost"/>
 </h1>
 
 
-<h2 align="left" id="licen-a">  Licença MIT </h2>
-<a href="./LICENCE"> 
-<img src="https://img.shields.io/static/v1?label=Licenca&message=MIT&color=gray&style=for-the-badge&logo=ghost"/>
-</a>
 
 
-<h2 align="left" id="autor">  Autor </h2>
+<h2 align="left" id="autor">  Me </h2>
 
 
 <a href="#">
