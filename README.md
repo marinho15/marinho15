@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">👋 Hi, me chamo Matheus Marinho </h1> 
-<h2 align="center"> Front-End Developer </h2>
+<h2 align="center"> Front-End Developer - Design </h2>
 
 
 
@@ -23,11 +23,11 @@
 
 <h2 align="left" id="objetivo">  Objetivo </h2>
 
-<h4> O principal objetivo deste projeto é treinar minhas habilidades de animação e principalmente mostrar minhas habilidades. </h4>
+<h4> Meu principal objetivo é criar sistemas unicos e minimalista com caractéristicas unicas. </h4>
 
 <h2 align="left" id="sobre">  Sobre </h2>
 
-<h4>  O projeto consiste em um formulario de login totalmente responsivo e animado.  </h4>
+<h4>  Sou um desenvolvedor Web genuíno, autodidata e disciplinado. Constantemente antenado à novas tendências tecnológicas, fiz cursos técnicos em Desenvolvimento Web na UDEMY, Hcodes, Rocketseat. Treinado para criar design incriveis nas tecnologias mais atuais.  </h4>
 
 
 
